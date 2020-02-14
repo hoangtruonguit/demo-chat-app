@@ -10,7 +10,7 @@
     "react-linkify": "^0.2.2",
     "react-scripts": "next",
     "vuid": "^1.0.0",
-    "yarn": "^1.9.4"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
